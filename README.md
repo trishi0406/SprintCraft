@@ -6,7 +6,7 @@ SprintCraft is a high-performance, dynamic agile sprint planning and Kanban mana
 
 ##  Features
 
--  **Dynamic Multi-Theme System**:
+-  **Dynamic Multi-Theme System**
   - **5 Dark Themes**: Midnight Slate, Cyber Obsidian, Emerald Matrix, Oceanic Abyss, Sunset Amber
   - **2 Light Themes**: Pure White, Nordic Breeze
   - Instant **Sun / Moon** Light & Dark mode quick toggle
@@ -64,6 +64,3 @@ SprintCraft is a high-performance, dynamic agile sprint planning and Kanban mana
 
 ---
 
-##  License
-
-Distributed under the MIT License. See `LICENSE` for more information.
