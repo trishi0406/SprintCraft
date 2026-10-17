@@ -6,12 +6,12 @@ SprintCraft is a real-time, interactive MERN-stack Kanban & Sprint Planning plat
 
 ##  Key Features
 
-- ** Real-Time Collaboration**: Instant bi-directional board updates, card movements, and task status sync across all connected clients via Socket.io.
-- ** Interactive Drag-and-Drop Kanban**: Four-stage agile workflow (*To Do*, *In Progress*, *In Review*, *Done*) powered by `@hello-pangea/dnd`.
-- ** Live User Presence & Workspaces**: Dynamic workspace tracking displaying active team members and collaborators in real time.
-- ** Cloud Media Attachments**: Seamless asset upload pipeline utilizing Multer and Cloudinary for file and image management directly within tasks.
-- ** Secure Authentication & RBAC**: Stateless JWT session handling, bcrypt password hashing, and granular Role-Based Access Control (*Admin*, *Member*, *Viewer*).
-- ** Sleek Dark-Themed UI**: Modern, accessible UI styled with Tailwind CSS, Lucide icons, and responsive layouts.
+-  Real-Time Collaboration**: Instant bi-directional board updates, card movements, and task status sync across all connected clients via Socket.io.
+-  Interactive Drag-and-Drop Kanban**: Four-stage agile workflow (*To Do*, *In Progress*, *In Review*, *Done*) powered by `@hello-pangea/dnd`.
+-  Live User Presence & Workspaces**: Dynamic workspace tracking displaying active team members and collaborators in real time.
+-  Cloud Media Attachments**: Seamless asset upload pipeline utilizing Multer and Cloudinary for file and image management directly within tasks.
+-  Secure Authentication & RBAC**: Stateless JWT session handling, bcrypt password hashing, and granular Role-Based Access Control (*Admin*, *Member*, *Viewer*).
+-  Sleek Dark-Themed UI**: Modern, accessible UI styled with Tailwind CSS, Lucide icons, and responsive layouts.
 
 ---
 
